@@ -2,7 +2,8 @@
 
 ## Audio examples are avaiable [here](https://bit.ly/DiffPIR-SoundExamples).
 
-*Full Update Coming Soon!
+* This repo is being revised January 2026 to reflect the ICASSP 2026 paper corresponding to this work. 
+** Below is the NeurIPS workshop paper information.
 
 This repo contains the code for the experiments and dataset accompanying the [AI for Music Workshop](https://aiformusicworkshop.github.io/ "AI for Music Workshop") at NEURIPS 2025  paper "Leveraging Diffusion Models For Predominant Instrument Recognition" presented investigating the utility of features from a  pretrained diffusion model for the downstream task of PIR.
 
