@@ -1,6 +1,6 @@
 # Leveraging Diffusion Models For Predominant Instrument Recognition
 
-## This repo is superceeded by the repo for the ICASSP submission "Leveraging Diffusion U-Net Features for Predominant Instrument Recognition" at ICASSP 2026. See https://github.com/charisrenee/InstrumentRecognitionWithDiffusion for Code, Examples, and Dataset ##
+## This repo is superceeded by the repo for the ICASSP submission "Leveraging Diffusion U-Net Features for Predominant Instrument Recognition" at ICASSP 2026. See [here](https://github.com/charisrenee/InstrumentRecognitionWithDiffusion) for Code, Examples, and Dataset ##
 
 * Below is the NeurIPS workshop paper information.
 
